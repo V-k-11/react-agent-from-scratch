@@ -1,9 +1,9 @@
-# 🤖 ReAct Agent from Scratch
+## ReAct Agent from Scratch
 
 A minimal, framework-free ReAct (Reasoning + Acting) agent built in pure Python.
 No LangChain. No LlamaIndex. Just raw loops, prompts, and tools.
 
-## 🚀 Quick Start
+## Quick Start
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/react-agent-from-scratch
@@ -14,12 +14,11 @@ cp .env.example .env   # Add your Groq API key
 streamlit run app.py
 ```
 
-## 🔑 API Keys
+## API Keys
 | Service | Key Required | Where to Get |
 |---|---|---|
-| Groq (LLM) | ✅ Free | [console.groq.com](https://console.groq.com/keys) |
-| Open-Meteo (Weather) | ❌ None | Auto |
-| DuckDuckGo (Search) | ❌ None | Auto |
-| Wikipedia | ❌ None | Auto |
+| Groq (LLM) |  Free | [console.groq.com](https://console.groq.com/keys) |
+| Open-Meteo (Weather) |  None | Auto |
+| DuckDuckGo (Search) |  None | Auto |
+| Wikipedia |  None | Auto |
 
-## 🧠 How ReAct Works
