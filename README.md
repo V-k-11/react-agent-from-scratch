@@ -21,4 +21,3 @@ streamlit run app.py
 | Open-Meteo (Weather) |  None | Auto |
 | DuckDuckGo (Search) |  None | Auto |
 | Wikipedia |  None | Auto |
-
